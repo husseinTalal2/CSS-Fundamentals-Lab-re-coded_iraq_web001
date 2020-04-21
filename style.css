@@ -24,4 +24,5 @@ section figure figcaption {
 #details div {
   display: inline-block;
   float: left;
+  padding: 50px
 }
