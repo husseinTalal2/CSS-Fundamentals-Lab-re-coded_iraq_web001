@@ -4,9 +4,6 @@ body {
   margin: 0;
 }
 
-h1 {
-  text-align: center;
-}
-nav {
+header {
   text-align: center;
 }
