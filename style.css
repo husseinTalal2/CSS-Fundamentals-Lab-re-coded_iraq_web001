@@ -19,11 +19,12 @@ section figure figcaption {
 }
 #featured-property p {
   margin-left: 15%;
-
+  margin-right: 15%;
 }
 #details div {
   display: inline-block;
   float: left;
-  padding: 0 7% 0 7%;
+  padding: 0 0 0 7%;
   background-color: red;
 }
+
