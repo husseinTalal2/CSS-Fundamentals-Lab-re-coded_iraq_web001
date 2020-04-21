@@ -7,6 +7,9 @@ body {
 header {
   text-align: center;
 }
+header p {
+  background-color: grey;
+}
 
 section figure img {
   margin-left: auto;
