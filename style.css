@@ -17,3 +17,7 @@ section figure img {
 section figure figcaption {
   text-align: center;
 }
+section p {
+  margin-left: auto;
+  margin-right: auto;
+}
