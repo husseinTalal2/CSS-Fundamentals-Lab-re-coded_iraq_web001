@@ -31,4 +31,5 @@ section figure figcaption {
   float: left;
   padding: 0 7% 0 7%;
   background-color: red;
+  width: 100%;
 }
