@@ -8,7 +8,7 @@ header {
   text-align: center;
 }
 
-section #featured-property {
+section #featured-property figure img {
   margin-left: auto;
   margin-right: auto;
   display: block;
