@@ -16,4 +16,5 @@ section #featured-property, figcaption {
 }
 section #featured-property p {
   text-align: center;
+  margin: auto;
 }
