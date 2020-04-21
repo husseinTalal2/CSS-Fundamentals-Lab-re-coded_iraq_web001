@@ -23,7 +23,7 @@ section figure figcaption {
 }
 
 #details div {
-  display: block;
+  display: inline-block;
   float: left;
   width: 100%;
   padding: 0 7% 0 7%;
