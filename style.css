@@ -9,5 +9,7 @@ header {
 }
 
 section #featured-property {
-  margin: auto;
+  display: block;
+  text-align: center;
+  
 }
