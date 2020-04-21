@@ -14,3 +14,6 @@ section #featured-property, figcaption {
   display: block;
   text-align:center;
 }
+section #featured-property p {
+  text-align: center;
+}
