@@ -11,4 +11,5 @@ header {
 section #featured-property figure {
   margin-left: auto;
   margin-right: auto;
+  display: block;
 }
