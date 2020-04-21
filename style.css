@@ -14,3 +14,6 @@ section figure img {
   display: block;
 
 }
+section figure figcaption {
+  text-align: center;
+}
